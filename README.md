@@ -43,7 +43,7 @@ Choose a scenario and select the four additional elements you will include.
     
     -Traceability Matrix
 
-Brandon Flynn, Dave Droege, Kevin Callahan, Kieran King all joined a voicecall to collaborate and agree upon this information. We all agreed upon a Third Person game. 
+Brandon Flynn, Dave Droege, Kevin Callahan, Kieran King, Tom Pienkowski all joined a voicecall to collaborate and agree upon this information. We all agreed upon a Third Person game. 
 We also unanimously agreed and decided on the 4 additional features we want to use in the game. We decided with the content decided that a platformer would be the best choice.
 The schedule is made of the different modules and due dates, during those periods we will complete Pickups and enemies for the Alpha. We will then complete obstacles for the beta.
 We have decided discord will be the best option for communication within which we will share chats and voice call at least once a week. Finally we will use a traceability matrix to assign
