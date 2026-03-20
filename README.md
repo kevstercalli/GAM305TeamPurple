@@ -1,7 +1,7 @@
 Project Log Assignments  
 Module Three Project Log - Team Development: QA and Testing Plan:
   
--Determine the preffered means of communication and a collaborative method to develop the document. How       will you test objects, levels, and games during the development cycle? Develop a schedule and include:       Play Test: testing during th preproduction stage. Demo: Testing before marketing will demo the project.      Code Release: Checking the code release demo with the test plan.
+-Determine the preffered means of communication and a collaborative method to develop the document. How       will you test objects, levels, and games during the development cycle? Develop a schedule and include:       Play Test: testing during the preproduction stage. Demo: Testing before marketing will demo the project.      Code Release: Checking the code release demo with the test plan.
     
     -Communication and Collaboration
       -We will communicate through Discord for small updates during development.
