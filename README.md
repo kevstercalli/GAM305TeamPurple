@@ -51,6 +51,8 @@ Module Three Project Log - Team Development: QA and Testing Plan:
         -Objects appear in the correct location.
         -Object animations and function correctly.
         -Enemies function correctly. 
+        -Player takes damage when they fall from a height of 1000 meters. 
+        -Player takes damage when they overlap damage volume.
 
       -User Interface
         -HUD elements display accurate information.
@@ -88,6 +90,8 @@ Module Three Project Log - Team Development: QA and Testing Plan:
       -Open
       -In Progress
       -Fixed
+
+Brandon Flynn, Dave Droege, Kevin Callahan, Kieran King, and Tom Pienkowski reviewed and approved the proposed QA and Testing plan. 
 
 Module Two Team Project Plan:
 
