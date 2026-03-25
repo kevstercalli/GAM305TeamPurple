@@ -1,4 +1,98 @@
 Project Log Assignments  
+Module Three Project Log - Team Development: QA and Testing Plan:
+  
+-Determine the preffered means of communication and a collaborative method to develop the document. How       will you test objects, levels, and games during the development cycle? Develop a schedule and include:       Play Test: testing during the preproduction stage. Demo: Testing before marketing will demo the project.      Code Release: Checking the code release demo with the test plan.
+    
+    -Communication and Collaboration
+      -We will communicate through Discord for small updates during development.
+      -For documentation during development, we will use a Google Sheet so everyone can view and update the
+       testing documents in real time.       
+      -The Team will utilize GitHub to push and pull updates individually. 
+      -Team members test their own additions locally before pushing updates then the rest of the team will 
+       pull the newest version from GitHub and test the combined build checking that new features work
+       correctly.
+
+    -Play Test (Preproduction Stage)
+      -The team will focus on testing core mechanics and gameplay like character movement and player
+       interactions with the environment or other assests.
+      -The playtest will be checked by team members to see if the main gameplay systems work as intended.
+       Feedback from the tests will help determine whether the mechanics are fun, understandable, and 
+       functioning properly before development continues. Issuses discovered are to be recorded in the 
+       Traceability spreadsheet under the bugs tab. 
+    
+    -Demo Testing (Before Marketing Demo)
+      -Before any demo is shared the team will run a structured playtest using the checklist in the test 
+       plan. This ensures that the game is ready to demonstrate. 
+      -The team will verify that the major features work correctly by resolving all crash and critical
+       bugs before the demo build is finalized. 
+
+    -Code Release Testing
+      -Before releasing the code the team will test the build using the test plan and traceability matrix.
+      -Each member will download the latest version of the game from GitHub and confirm that all required
+       features still function correctly. This process helps identify bugs that may have appeared after
+       merging the teams' work.
+
+-What items will be tested? Include a checklist of items to be tested (pass/fail).
+    
+    -Items to Be Tested (Checklist)
+      
+      -Gameplay Systems
+        -Player movement functions correctly.
+        -Player actions work as inteded. 
+        -Game (win/lose) objectives trigger properly.
+
+      -Level Design
+        -Player can navigate the level without getting stuck.
+        -Collisions work properly with objects and environments.
+        -Level boundaries and triggers function correctly.
+
+      -Gameplay
+        -Interactive objects (traps and pickups) respond correctly to player actions.
+        -Objects appear in the correct location.
+        -Object animations and function correctly.
+        -Enemies function correctly. 
+        -Player takes damage when they fall from a height of 1000 meters. 
+        -Player takes damage when they overlap damage volume.
+
+      -User Interface
+        -HUD elements display accurate information.
+        -Buttons and inputs respond correctly.
+
+      -Performance
+        -Game runs without crashes.
+        -Frame rate remains stable.
+        -No major graphical or physics glitches occur.
+
+-How will you update the test plan to reflect changes tot he game and design document?
+    
+    -The test plan will be updated whenever changes are made to the game. Any new features added will be
+     included in the traceability matrix and added to the testing checklist. Making sure all new systems are
+     properly tested during. Team members will update the shared Google document so that everyone is aware
+     of the new testing requirements.
+
+-How will bugs be reported?
+    
+    -All bugs will be reported using the team’s Bug Report Sheet. When a bug is discovered, the tester will
+     record the following information:
+       -Priority: Crash Bug, Critical Bug, Minor Bug, Feature Request.
+       -Tested feature.
+       -Status
+       -Description
+       -Runtime errors
+       -Updates/Notes, Resolutions
+
+-How will the bugs and their changes be tracked over time?
+    
+    -When a developer fixes a bug, they will update the status in the sheet and push the fix to GitHub. 
+     Another team member will test the fix to confirm the fix was successful. Allowing the team to manage 
+     bugs over time and that problems are fully resolved before release.
+    -Bugs will be tracked using the shared bug report sheet. Each bug will have a status such as:
+      -Open
+      -In Progress
+      -Fixed
+
+Brandon Flynn, Dave Droege, Kevin Callahan, Kieran King, and Tom Pienkowski reviewed and approved the proposed QA and Testing plan. 
+
 Module Two Team Project Plan:
 
 Choose a scenario and select the four additional elements you will include.
