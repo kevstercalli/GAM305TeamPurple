@@ -1,4 +1,41 @@
 Project Log Assignments  
+Module Four Project Log - Team Development: QA and Testing Plan:
+
+What parts of the testing process did the team perceive to go well?
+
+- We all gathered in a Discord call and shared our screens so that we could collaborate live on the finishing touches. Through our call we were able to
+  see the strengths and weaknesses of our game. The testing plan laid everything out nicely and kept everyone organized and on task. In our meeting we all saw
+  how our individual skills and work blended together nicely for the Alpha project.
+  
+How were bugs identified and corrected?
+
+- Bugs were identified primarily through repeated playtesting and by comparing the game’s current build against the original design requirements.
+  Individually we all corrected bugs in our own work. When we collaborated during our call we fixed any bugs we found along the way.
+  
+In terms of the QA and testing process, what would you do differently to improve the process?
+
+- We could have called earlier in the week to give us more time to make corrections to any errors we found. We also could have done earlier collaborative
+  testing to ensure everything was running smooth and ready to go.
+  
+What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
+
+- Github has been a great resource to keep us all up to date on the project. Each of us have been on top of submitting our work to the repository to share
+  with eachother. The testing plan has been a good point of reference for us to check and stay on track. Discord has been exceptionally useful as we all share
+  our work. through messages and calls we have shared our work and stayed on the same page.
+  
+Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+
+- The Github wiki has been a resource that has not been used. Whether some team members have previous Github experience, or we used videos provided by the class.
+  In the future we can use the wiki for assistance with any issues. The traceability matrix has lacked usage from some team members. Each of us have been hard
+  at work designing unique features for the game. At times we fail to follow a strict plan or later document our work; a habit which we will improve upon.
+  
+How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+
+- The initial team analysis consisted of a Discord call where we decided on the game we wanted to make. We unanimously chose the Third-Person game. Upon
+  selecting our game we chose the unique features we wanted. The document guided us in the right direction to get our project into motion.
+
+*Brandon Flynn, Dave Droege, Kevin Callahan, Kie King, Tom Pienkowski all joined a Discord call to complete the finishing touches on the Alpha Level. We discussed how to design the level and collaborated on our answers for the team questions.
+
 Module Three Project Log - Team Development: QA and Testing Plan:
   
 -Determine the preffered means of communication and a collaborative method to develop the document. How       will you test objects, levels, and games during the development cycle? Develop a schedule and include:       Play Test: testing during the preproduction stage. Demo: Testing before marketing will demo the project.      Code Release: Checking the code release demo with the test plan.
