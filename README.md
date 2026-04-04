@@ -1,4 +1,20 @@
 Project Log Assignments  
+# Module Five Project Log - Team Reflection
+
+## What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+* (add text)
+## What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+* (add text)
+## How were the previous evaluations integrated into this latest stage?
+* (add text)
+## What would you do differently to improve the collaboration or development process?
+* (add text)
+## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+* (add text)
+## Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
+* (add text)
+
+
 Module Four Project Log - Team Development: QA and Testing Plan:
 
 What parts of the testing process did the team perceive to go well?

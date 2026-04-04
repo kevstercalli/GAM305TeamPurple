@@ -73,3 +73,15 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+AlphaFinal.zip
+AlphaFinal/
+*.zip
+*.pak
+*.ucas
+*.utoc
+Windows/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
