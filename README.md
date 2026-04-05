@@ -14,6 +14,8 @@ Project Log Assignments
 ## Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
 * The project at this point is entering the beta because the main mechanics and level structure are there but we are a long way from a polished project. Before the final release we are focusing on fixing any remaining bugs, updating textures, adding player guidance, and just general polish on menus and UI.
 
+Brandon Flynn, Dave Droege, Kevin Callahan, Kieran King, and Tom Pienkowski reviewed and approved. 
+
 
 Module Four Project Log - Team Development: QA and Testing Plan:
 
