@@ -2,17 +2,17 @@ Project Log Assignments
 # Module Five Project Log - Team Reflection
 
 ## What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
-* (add text)
+* The team felt like we made progress towards the finished game with the core mechanics compared to the last stage. We were able to make a playable version that incorporated the enemies, traps, power up with a basic gameplay loop. We also communicated to make sure everyone contributed to the project. Using individual testing and testing after a new addition, after merging we were able to catch some issues early.
 ## What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
-* (add text)
+* Based on the feedback we received, we can see that player guidance and presentation were the weaker part of the project. We don’t really have a way to communicate the objective or story of the game from the menu screen. We need to add player hints to help communicate things to player with sound, lighting and UI. We still have some temporary textures we need to replace them to help the project feel more polished.
 ## How were the previous evaluations integrated into this latest stage?
-* (add text)
+* We integrated the previous feedback by adding specific improvements we need before beta release. Added the retry and plans on adding a victory menu, we need to finish textures and meshes for the traps and enemies. We also plan to add information about the story and player objective to the main menu.  The project won’t work with a fixed camera, so we plan to keep the camera freely moving.
 ## What would you do differently to improve the collaboration or development process?
-* (add text)
+* In terms of collaboration and development it’s been hard to plan meetings with everyone’s schedules. We are trying to plan meetings earlier in the week even if we can’t all be there. After the feedback is released a team member is going to make a task list for the team so we can work on the project and get things done a little earlier in the week.
 ## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
-* (add text)
+* Relying on general discussion isn’t always the best, just like the meetings we are on all different schedules. It’s hard to make final decisions about assets since we must wait for everyone’s input. A team member might just need to make the decision for the greater good to get over this issue. 
 ## Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
-* (add text)
+* The project at this point is entering the beta because the main mechanics and level structure are there but we are a long way from a polished project. Before the final release we are focusing on fixing any remaining bugs, updating textures, adding player guidance, and just general polish on menus and UI.
 
 
 Module Four Project Log - Team Development: QA and Testing Plan:
