@@ -2,13 +2,13 @@ Project Log Assignments
 # Module Six Project Log - Team Reflection
 
 ## What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
-- (Enter Text)
+- The parts of the plan that went well in relation to the last stage evaluation was the teams implementation of the player health bar, completing the main menu UI including credits, controls,  pause menu, the try again option when the player dies, the win condition animation. Sounds and meshes were added to the blueprints to enhance user experience. The floating platforms were replaced with custom buildings, and the atmosphere was set to align with the game theme. Temp textures were replaced for the turret and the damage orb, and the disappearing platforms were reworked. The team also helped each other to meet the deadline for project by communicating issues through Discord when problems came up. When problems needed to be resolved, teammates stepped in and claimed ownership of the issue.
 ## What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
-- (Enter Text)
+- The parts of the plan that were perceived to go wrong in relation to the last stage evaluation were some issues with Github. For example, we seemed to have a cursed blueprint that initially worked fine, but after a merge seemed to break. It was unclear what caused the blueprint to break. The game storyline/goal could use some work as well. While we updated the level to include more atmosphere and color aligning with a theme, having a player objective and back story would enhance the game experience.
 ## How were the previous evaluations integrated into this latest stage? 
-- (Enter Text)
+- Feedback from the last release included updating the menu screen when the player died, adding a story/goal to the menu buttons, adding sounds, hints, lighting, HUD, updating the temp textures for world building, and locking off the camera to make the controls more intuitive.  We updated the game-over flow so that when the player dies, they are returned to the main menu and asked to try again instead of just quitting the file. Sounds were added to the interactable blueprints. The main menu was updated to include button controls. The level lighting was updated to include a misty purple fog effect, and the floating platforms were updated with themed color buildings. The temp textures for the interactable elements were replaced. For example, the turret, damage orb, and damage trap were custom redesigned. The health pickup, speed boost, and jump boost were replaced with hints for what they do when overlapped
 ## What would you do differently to improve the collaboration or development process? Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
-- (Enter Text)
+- To improve collaboration, we could set up focus reports at the beginning of the week to see when everyone will be available and progress reports throughout the week to help keep the momentum going. The traceability matrix was not helpful for Kevin this week because he had trouble defining the task to work on.
 
 # Module Five Project Log - Team Reflection
 
