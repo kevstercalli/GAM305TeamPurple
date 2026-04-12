@@ -1,4 +1,15 @@
 Project Log Assignments  
+# Module Six Project Log - Team Reflection
+
+## What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+- (Enter Text)
+## What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+- (Enter Text)
+## How were the previous evaluations integrated into this latest stage? 
+- (Enter Text)
+## What would you do differently to improve the collaboration or development process? Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+- (Enter Text)
+
 # Module Five Project Log - Team Reflection
 
 ## What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
